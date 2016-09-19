@@ -13,12 +13,11 @@
 [![](http://img.youtube.com/vi/U1NT1fNk_bk/0.jpg)](https://www.youtube.com/watch?v=U1NT1fNk_bk)
 
 (YouTube動画へのリンクです)
-※途中スマホから「内線番号02にかけます」と書いてあるところがありますが、01の間違いです。最後に直します。
 
 # 使ったもの
 
 + [変身携帯 DXジュウオウチェンジャー](http://www.bandai.co.jp/catalog/item/4549660038665000.html) 定価4298円
-+ [ラズパイ3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)＋[3GPI](http://www.mechatrax.com/products/3gpi)＋[SORACOM Air SIM](https://soracom.jp/services/air/) / [関連記事](http://mag.switch-science.com/2014/12/05/3gpi/)
++ [Raspberry Pi Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)＋[3GPI](http://www.mechatrax.com/products/3gpi)＋[SORACOM Air SIM](https://soracom.jp/services/air/) / [関連記事](http://mag.switch-science.com/2014/12/05/3gpi/)
 + [LightBlue Bean](http://store.punchthrough.com/collections/all/products/bean) $30+輸送料
 + [iBUFFALO USBヘッドセット BSHSUH11SV](http://buffalo.jp/product/multimedia/headset/bshsuh11sv/) 定価2660円
 + [iBUFFALO Bluetooth4 USBアダプター BSBT4D09BK](http://buffalo.jp/product/peripheral/wireless-adapter/bsbt4d09bk/) 定価2390円
