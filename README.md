@@ -10,7 +10,7 @@
 
 出来上がりはこんな感じになります。
 
-[![](http://img.youtube.com/vi/U1NT1fNk_bk/0.jpg)](https://www.youtube.com/watch?v=U1NT1fNk_bk)
+[![](http://img.youtube.com/vi/ayybI7RHh8Y/0.jpg)](https://www.youtube.com/watch?v=ayybI7RHh8Y)
 
 (YouTube動画へのリンクです)
 
